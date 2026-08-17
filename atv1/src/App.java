@@ -1,5 +1,8 @@
 import java.time.LocalDate;
 
+import src.ProdutoNaoPerecivel;
+import src.ProdutoPerecivel;
+
 public class App {
 
 	public static void main(String[] args) {
